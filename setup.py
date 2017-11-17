@@ -1,8 +1,8 @@
 from setuptools import setup
 
-setup(name='YourAppName',
+setup(name='flask-example',
       version='1.0',
-      description='OpenShift App',
+      description='egans flask example',
       author='Your Name',
       author_email='example@example.com',
       url='https://www.python.org/community/sigs/current/distutils-sig',
